@@ -1,0 +1,5 @@
+ssh_key_file = "id_rsa_4096"
+count = 3
+flavor = "s1-2"
+net_public = "Ext-Net"
+net_priv = "VLAN"
